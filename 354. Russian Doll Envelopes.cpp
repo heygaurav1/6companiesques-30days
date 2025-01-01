@@ -34,3 +34,5 @@ return a[0] < b[0];
   }
 };
 
+//Time Complexity: O(N log N)
+//Space Complexity: O(N)
