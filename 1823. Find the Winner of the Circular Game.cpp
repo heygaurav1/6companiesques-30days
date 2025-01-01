@@ -29,3 +29,6 @@ public:
     return friends.front();
     }
 };
+
+    // Time Complexity --> O(N * K)
+    // Space Complexity --> O(N)
