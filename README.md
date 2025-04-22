@@ -1,4 +1,6 @@
-6 Companies 30 Days Challenge
+#6 Companies 30 Days Challenge
+
+
 This repository contains my solutions for the 6 Companies 30 Days Challenge conducted by Arsh Goyal in January 2025.
 
 About the Challenge
